@@ -15,7 +15,7 @@ File types in this directory are listed for each Chapter 1-10 as follows:
 -  *.PRN
 -  *.xlsx
 The first is (mcdx) is the file format read in by PTC MathCAD Prime (www.mathcad.com)
-The second is (PRN) is either written (as output) or read (as input) by mcdx files
+The second (PRN) is either written (as output) or read (as input) by mcdx files
 The third is a Microsoft XL spreadsheet file format.
 
 Notes on use.
