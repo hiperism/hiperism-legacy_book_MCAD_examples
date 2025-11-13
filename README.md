@@ -23,7 +23,7 @@ Notes on use.
     available as PDF files (see note above)
 (1) For those choosing to install a MathCAD license all mcdx files may be opened with
     MathCAD in MS windows
-(2) However, before altering (or saving a copy of any of these mcdx( files first create
+(2) However, before altering, or saving a copy of any of these mcdx, files first create
     your own copy in a separate directory.
 (3) work through the mcdx files in sequential order as later files may be expecting
     *.PRN files written by a previous example.
